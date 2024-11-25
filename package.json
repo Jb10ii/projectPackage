@@ -1,0 +1,14 @@
+{
+  "name": "image",
+  "version": "1.0.0",
+  "description": "an image slider project",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jibril M",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
